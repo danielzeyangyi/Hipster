@@ -1,2 +1,2 @@
 # Hipster
-A landing page for house rental agents
+A responsive landing page for house rental agents using Boostrap 4
